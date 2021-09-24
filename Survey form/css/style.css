@@ -1,0 +1,50 @@
+body {
+  font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.main {
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/741/546/521/chayanne-shirt-wall-look-wallpaper-preview.jpg);
+position: fixed;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+color: #ffffff;
+overflow-y: scroll;
+font-size: 24px;
+background-size: cover;
+background-repeat: repeat;
+background-position: top;
+}
+
+.form-content{
+max-width:70%;
+margin: 0 auto;
+}
+
+.main > h1,
+.main > p {
+text-align: center;
+font-family: 35px;
+z-index: 2;
+position: relative
+}
+
+#survey-form{
+background: rgba(27, 27, 50, 0.75);
+padding: 2rem;
+}
+
+.main-content {
+background-color: rgb(27, 27, 50, .9);
+max-width: 650px;
+display: flex;
+flex-direction: column;
+padding: 40px;
+margin: 0 auto;
+margin-bottom: 40px;
+border-radius: 5px;
+z-index: 2;
+position: relative;
+  box-shadow: 0px -1px 10px 5px purple;
+border: solid;
+}

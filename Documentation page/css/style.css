@@ -1,0 +1,38 @@
+body{
+    background-color: pink;
+    font-family: sistem;
+    font-size: 1.4em;
+  }
+  header{
+      font-size: 1.6em;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #FF8BA0;
+    max-width: 90%;
+    max-height: 3em;
+  }
+  div {
+    text-align:justify;
+      margin: 0 auto 50px auto;
+      max-width: 50%;
+  
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    
+  }
+  @media (max-width: 400px) {
+    h1 {
+      font-size: 3.5rem;
+      line-height: 1.2;
+    }
+  }
+  #img-caption {
+   text-align:center;
+  }
+  li {
+    margin: 16px 0;
+  }
