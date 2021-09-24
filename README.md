@@ -1,11 +1,8 @@
 # FCC: Tribute page
 
-Welcome to my Tribute page, you could read my source if you want, i like "El tío Rober" comedian.
+Welcome to my FCC Responsive web design projects, you could read my source if you want, have a nice day
 
-##  Here's in Codepen
 
-https://codepen.io/Sensacion-del-bloque/full/rNmQmbM
+## A prewiew
 
-### A prewiew
-
-![alt text](https://github.com/LaSensacionDelBloque/FCC/blob/main/Tribute%20page.JPG?raw=true)
+![alt text](https://github.com/LaSensacionDelBloque/FCC/blob/main/Portfolio.JPG?raw=true)
