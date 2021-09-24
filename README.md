@@ -8,4 +8,4 @@ https://codepen.io/Sensacion-del-bloque/full/rNmQmbM
 
 ### A prewiew
 
-![alt text](https://github.com/LaSensacionDelBloque/FCC/blob/main/Documentation%20page.JPG?raw=true)
+![alt text](https://github.com/LaSensacionDelBloque/FCC/blob/main/Tribute%20page.JPG?raw=true)
